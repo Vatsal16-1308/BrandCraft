@@ -67,7 +67,7 @@ graph TD
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/FAde16-lang/BrandCraft.git
+    git clone https://github.com/Vatsal16-1308/BrandCraft.git
     cd BrandCraft
     ```
 
