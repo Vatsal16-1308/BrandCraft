@@ -162,7 +162,7 @@ All endpoints return structured error responses:
 
 ### Phase 2: Enterprise Scaling (Planned)
 - **Centralized Persistence**: Migration to MongoDB Atlas for cross-device sync.
-- **Advanced User Roles**: RBAC for team collaboration.
+- **Advanced User Roles**: RBAC for team collaboration. LL
 
 ## 🤝 Contributing
 
